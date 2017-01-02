@@ -1,9 +1,7 @@
 # Android Script Creator [Direct download]
 
 //
-
 // Direct links
-
 //
 raw.githubusercontent.com/Octanium91/ASC_DIRECT/master/Android_Script_1017_1017_user.zip
 raw.githubusercontent.com/Octanium91/ASC_DIRECT/master/Android_Script_1017_1017_user_unpacked.zip
