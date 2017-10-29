@@ -2,11 +2,11 @@
 
 ## Direct links
 
-- raw.githubusercontent.com/Octanium91/ASC_DIRECT/master/Android_Script_1017_1021_user.zip
-- raw.githubusercontent.com/Octanium91/ASC_DIRECT/master/Android_Script_1017_1021_user_unpacked.zip
+- raw.githubusercontent.com/Octanium91/ASC_DIRECT/master/Android_Script_1017_1023_user.zip
+- raw.githubusercontent.com/Octanium91/ASC_DIRECT/master/Android_Script_1017_1023_user_unpacked.zip
 
 ## Files MD5 Checksum
 
-- 7426228ebfa7c7eaa1858951d47106d4 Android_Script_1017_1021_user.zip
-- 1078b2d456d1843a96f77490ef512e38 Android_Script_1017_1021_user_unpacked.zip
+- 6823310c5201fab8b42a89fd7649d66a Android_Script_1017_1023_user.zip
+- 5a1854c481ad6e5d64130eb44ebb0bc9 Android_Script_1017_1023_user_unpacked.zip
 
